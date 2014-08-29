@@ -1,1 +1,0 @@
-Matrix manipulation to recreate different wireframe objects from text files. Sample text files included. To assign an input, go to line 17 in WireFrame.c and change "input.txt" to whatever file you would like as your input.
